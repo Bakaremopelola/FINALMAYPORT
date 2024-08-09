@@ -589,7 +589,8 @@ body {
 
 .project-card1 .project-info h4 {
     font-size: 18px;
-    color: black;
+    font-weight: 600px;
+    color: #f9f9f9;
 }
 
 .project-card1 .btn {
