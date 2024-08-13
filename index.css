@@ -30,7 +30,7 @@ body {
     color: #fff;
     margin-left: 15px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 16px;  
 }
 
 .social-icons a:hover {
@@ -109,8 +109,9 @@ body {
 }
 
 @media (max-width: 768px) {
+
     .top-bar {
-        justify-content: center; /* Centers items on smaller screens */
+        justify-content: center; 
         text-align: center;
         padding: 10px 10px;
     }
